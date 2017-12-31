@@ -11,7 +11,7 @@
 const IPFS = require('ipfs')
 
 // When 'orbit-db' was installed from npm, use with:
-import { OrbitDB } from 'orbit-db' 
+import OrbitDB from 'orbit-db' 
 
 // Example main code
 const example = require('./example')
