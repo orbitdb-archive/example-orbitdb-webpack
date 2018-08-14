@@ -16,3 +16,7 @@ open index.html
 [How to require](https://github.com/haadcode/example-orbitdb-webpack/blob/master/src/index.js) [orbit-db](https://www.npmjs.com/package/orbit-db) as a module
 
 [Minimal required Webpack configuration](https://github.com/haadcode/example-orbitdb-webpack/blob/master/webpack.config.js) for [orbit-db](https://www.npmjs.com/package/orbit-db)
+
+## License
+
+[MIT](LICENSE) © 2017-2018 Haja Networks Oy
