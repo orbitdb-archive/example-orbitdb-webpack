@@ -1,6 +1,6 @@
 {
   "name": "@orbitdb/example-orbitdb-webpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "How to use OrbitDB JavaScript module with Webpack",
   "author": "Haad",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "type": "git",
     "url": "https://github.com/orbitdb/example-orbitdb-webpack"
   },
-  "bugs":"https://github.com/orbitdb/example-orbitdb-webpack/issues",
-  "homepage":"https://github.com/orbitdb/example-orbitdb-webpack",
+  "bugs": "https://github.com/orbitdb/example-orbitdb-webpack/issues",
+  "homepage": "https://github.com/orbitdb/example-orbitdb-webpack",
   "keywords": [
     "example",
     "orbitdb",
