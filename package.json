@@ -1,5 +1,5 @@
 {
-  "name": "example-orbitdb-webpack",
+  "name": "@orbitdb/example-orbitdb-webpack",
   "version": "0.0.1",
   "description": "How to use OrbitDB JavaScript module with Webpack",
   "author": "Haad",
