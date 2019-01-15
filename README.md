@@ -1,6 +1,7 @@
 # Example OrbitDB Webpack
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby)
+[![npm version](https://badge.fury.io/js/%40orbitdb%2Fexample-orbitdb-webpack.svg)](https://badge.fury.io/js/%40orbitdb%2Fexample-orbitdb-webpack)
 
 > How to use OrbitDB JavaScript module with Webpack
 
