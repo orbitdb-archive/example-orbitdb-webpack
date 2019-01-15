@@ -1,13 +1,20 @@
 {
   "name": "example-orbitdb-webpack",
   "version": "0.0.1",
-  "description": "",
+  "description": "How to use OrbitDB JavaScript module with Webpack",
   "author": "Haad",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/orbitdb/orbit-db"
+    "url": "https://github.com/orbitdb/example-orbitdb-webpack"
   },
+  "bugs":"https://github.com/orbitdb/example-orbitdb-webpack/issues",
+  "homepage":"https://github.com/orbitdb/example-orbitdb-webpack",
+  "keywords": [
+    "example",
+    "orbitdb",
+    "webpack"
+  ],
   "engines": {
     "node": ">=8.0.0"
   },
@@ -25,6 +32,11 @@
     "uglifyjs-webpack-plugin": "~1.1.0",
     "webpack": "^3.8.1"
   },
+  "contributors": [
+    "haadcode",
+    "RichardLitt",
+    "adam-palazzo"
+  ],
   "scripts": {
     "test": "mocha",
     "build": "webpack --config webpack.config.js --sort-modules-by size"
