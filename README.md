@@ -1,6 +1,6 @@
 # Example OrbitDB Webpack
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io) [![Discord](https://img.shields.io/discord/475789330380488707?color=blueviolet&label=discord)](https://discord.gg/cscuf5T)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io) 
 [![npm version](https://badge.fury.io/js/%40orbitdb%2Fexample-orbitdb-webpack.svg)](https://badge.fury.io/js/%40orbitdb%2Fexample-orbitdb-webpack)
 
 > How to use OrbitDB JavaScript module with Webpack
